@@ -54,6 +54,12 @@
             "rid": "win-x86"
           }
         }
+      },
+      "MonoGame.Framework.WindowsDX/3.8.1.303": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Framework.WindowsDX.targets": {}
+        }
       }
     }
   },
@@ -93,29 +99,52 @@
         "runtimes/win-x86/native/SDL2.dll",
         "runtimes/win-x86/native/soft_oal.dll"
       ]
+    },
+    "MonoGame.Framework.WindowsDX/3.8.1.303": {
+      "sha512": "RKAXyQRjkyw3hbaP5wmoqr7FH8SkaYfI8TUhX/S4PySHYjVhj4ufr0Rd2HDJTPkSq0KubsBoNUpbD9JM0DlwsQ==",
+      "type": "package",
+      "path": "monogame.framework.windowsdx/3.8.1.303",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/MonoGame.Framework.WindowsDX.targets",
+        "lib/net6.0-windows7.0/MonoGame.Framework.dll",
+        "monogame.framework.windowsdx.3.8.1.303.nupkg.sha512",
+        "monogame.framework.windowsdx.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "MonoGame.Content.Builder.Task >= 3.8.1.303",
-      "MonoGame.Framework.DesktopGL >= 3.8.1.303"
+      "MonoGame.Framework.DesktopGL >= 3.8.1.303",
+      "MonoGame.Framework.WindowsDX >= 3.8.1.303"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jason\\.nuget\\packages\\": {}
+    "C:\\Users\\Massimo Centofanti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Source\\Repos\\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\\Project1\\Project1.csproj",
+      "projectUniqueName": "C:\\Users\\Massimo Centofanti\\source\\repos\\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\\Project1\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "C:\\Users\\Jason\\Source\\Repos\\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\\Project1\\Project1.csproj",
-      "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Source\\Repos\\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\\Project1\\obj\\",
+      "projectPath": "C:\\Users\\Massimo Centofanti\\source\\repos\\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\\Project1\\Project1.csproj",
+      "packagesPath": "C:\\Users\\Massimo Centofanti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Massimo Centofanti\\source\\repos\\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\\Project1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Massimo Centofanti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -147,6 +176,10 @@
           "MonoGame.Framework.DesktopGL": {
             "target": "Package",
             "version": "[3.8.1.303, )"
+          },
+          "MonoGame.Framework.WindowsDX": {
+            "target": "Package",
+            "version": "[3.8.1.303, )"
           }
         },
         "imports": [
@@ -165,7 +198,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

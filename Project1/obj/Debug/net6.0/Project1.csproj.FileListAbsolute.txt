@@ -4,3 +4,29 @@ C:\Users\Jason\Source\Repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj
 C:\Users\Jason\Source\Repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
 C:\Users\Jason\Source\Repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
 C:\Users\Jason\Source\Repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.sourcelink.json
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\Project1.exe
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\Project1.deps.json
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\Project1.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\Project1.pdb
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\refint\Project1.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.pdb
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\obj\Debug\net6.0\ref\Project1.dll
+C:\Users\Massimo Centofanti\source\repos\aojrfhuiqoe4wfghiuhragfiuyghauiygweyuiq\Project1\bin\Debug\net6.0\Content\texture.xnb

@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System;
 
 namespace Project1
 {
@@ -10,6 +11,7 @@ namespace Project1
         private SpriteBatch _spriteBatch;
         private Class1 button;
         private Texture2D texture;
+        private Vector2 position = new Vector2(100,100);
 
         public Game1()
         {
@@ -22,7 +24,10 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            Class1 button = new Class1(10,20,40,50);
+            Texture2D texture = Content.Load<Texture2D>("texture");
+
+            
+            button = new Class1(texture, position);
             base.Initialize();
         }
 
@@ -35,10 +40,16 @@ namespace Project1
 
         protected override void Update(GameTime gameTime)
         {
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
-                Exit();
-            
+
             // TODO: Add your update logic here
+            MouseState mouseState = Mouse.GetState();
+            if (button.ButtonRectangle.Contains(mouseState.Position) && mouseState.LeftButton == ButtonState.Pressed)
+            {
+                Console.WriteLine("Button pressed!");
+
+                // Close the game window
+                Exit();
+            }
 
             base.Update(gameTime);
         }
@@ -49,7 +60,7 @@ namespace Project1
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
-            _spriteBatch.Draw(texture, position, sourceRectangle DestinationRectangle);
+            button.draw(_spriteBatch);
             _spriteBatch.End();
 
             base.Draw(gameTime);
